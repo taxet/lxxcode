@@ -35,3 +35,6 @@ leetcode 30: Substring with Concatenation of All Words *(java)*
 leetcode 31: Next Permutation *(java)*  
 leetcode 32: Longest Valid Parentheses *(java)*  
 leetcode 33: Search in Rotated Sorted Array *(java)*  
+leetcode 34: Search for a Range *(java)*  
+leetcode 35: Search Insert Position *(java)*  
+leetcode 36: Valid Sudoku *(java)*  
