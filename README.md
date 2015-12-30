@@ -38,3 +38,6 @@ leetcode 33: Search in Rotated Sorted Array *(java)*
 leetcode 34: Search for a Range *(java)*  
 leetcode 35: Search Insert Position *(java)*  
 leetcode 36: Valid Sudoku *(java)*  
+leetcode 37: Sudoku Solver *(java)*  
+leetcode 38: Count and Say *(java)*  
+leetcode 39: Combination Sum *(java)*  
