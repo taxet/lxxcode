@@ -41,3 +41,6 @@ leetcode 36: Valid Sudoku *(java)*
 leetcode 37: Sudoku Solver *(java)*  
 leetcode 38: Count and Say *(java)*  
 leetcode 39: Combination Sum *(java)*  
+leetcode 40: Combination Sum II *(java)*  
+leetcode 41: First Missing Positive *(java)*  
+leetcode 42: Trapping Rain Water *(java)*  
