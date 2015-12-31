@@ -44,3 +44,6 @@ leetcode 39: Combination Sum *(java)*
 leetcode 40: Combination Sum II *(java)*  
 leetcode 41: First Missing Positive *(java)*  
 leetcode 42: Trapping Rain Water *(java)*  
+leetcode 43: Multiply Strings *(java)*  
+leetcode 44: Wildcard Matching *(java)*  
+leetcode 45: Jump Game II *(java)*  
