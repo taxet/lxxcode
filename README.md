@@ -47,3 +47,6 @@ leetcode 42: Trapping Rain Water *(java)*
 leetcode 43: Multiply Strings *(java)*  
 leetcode 44: Wildcard Matching *(java)*  
 leetcode 45: Jump Game II *(java)*  
+leetcode 46: Permutations *(java)*  
+leetcode 47: Permutations II *(java)*  
+leetcode 48: Rotate Image *(java)*  
