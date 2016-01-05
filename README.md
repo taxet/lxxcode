@@ -50,3 +50,9 @@ leetcode 45: Jump Game II *(java)*
 leetcode 46: Permutations *(java)*  
 leetcode 47: Permutations II *(java)*  
 leetcode 48: Rotate Image *(java)*  
+leetcode 49: Group Anagrams *(java)*  
+leetcode 50: Pow(x, n) *(java)*  
+leetcode 51: N-Queens *(java)*  
+leetcode 52: N-Queens II *(java)*  
+leetcode 53: Maximum Subarray *(java)*  
+leetcode 54: Spiral Matrix *(java)*  
