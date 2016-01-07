@@ -59,11 +59,11 @@ leetcode 54: Spiral Matrix *(java)*
 leetcode 55: Jump Game *(java)*  
 leetcode 56: Merge Intervals *(java)*  
 leetcode 57: Insert Interval *(java)*  
+leetcode 58: Length of Last Word *(java)*  
+leetcode 59: Spiral Matrix II *(java)*  
+leetcode 60: Permutation Sequence *(java)*  
 
 ##pending:
-leetcode 58: Length of Last Word 	
-leetcode 59: Spiral Matrix II 	
-leetcode 60: Permutation Sequence 	
 leetcode 61: Rotate List 	
 leetcode 62: Unique Paths 	
 leetcode 63: Unique Paths II 	
